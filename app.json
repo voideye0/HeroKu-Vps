@@ -8,7 +8,7 @@
   "env": {
     "ngrokid": {
       "description": "ngrok ID",
-      "value": "2Xj9GlTTttWVgopT1ZdsxzY1y3U_67YMfTo4zV1wNJ6VbHP7o"
+      "value": ""
     },
     "Password": {
       "description": "Root password",
